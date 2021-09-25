@@ -1,9 +1,0 @@
-[wemakeculture]
-title = "위메프 공연티켓"
-url = "https://ticket.wemakeprice.com/opennotice"
-entrySelector = "tbody[id='notiList'] tr"
-titleSelector = "div[class='title']"
-linkSelector = "td a"
-contentSelector = "span[class='date strong']"
-imageSelector = "div[class='img'] img"
-waitUntil = "networkidle"
