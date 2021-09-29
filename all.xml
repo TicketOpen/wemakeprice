@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 04:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 05:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈헤드윅〉 - 앵콜 컬처데이 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[2021 RUN THE ZOMBIECITY 런 더 좀비시티 버추얼 레이스 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/742</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/742</guid>
+            <pubDate>Wed, 29 Sep 2021 05:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01(금) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202109/29/fmyfugshhdmz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 - 앵콜 컬처데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/741</link>
             <guid>https://ticket.wemakeprice.com/opennotice/741</guid>
             <pubDate>Tue, 28 Sep 2021 05:10:57 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 25 Sep 2021 19:05:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.14(화) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202109/10/un2msllmdr0p.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈아가사 AGATHA〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/732</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/732</guid>
-            <pubDate>Sat, 25 Sep 2021 19:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09(목) 16:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/30/202109/08/smshcgbaelyb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
