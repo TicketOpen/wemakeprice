@@ -4,7 +4,7 @@
         <title>위메프 공연티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 06:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://ticket.wemakeprice.com/opennotice/746</link>
             <guid>https://ticket.wemakeprice.com/opennotice/746</guid>
             <pubDate>Tue, 05 Oct 2021 06:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.07(목) 18:00]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.07(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202110/05/s4cuwa9g2khj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
