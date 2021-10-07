@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 06:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://ticket.wemakeprice.com/opennotice/746</guid>
             <pubDate>Tue, 05 Oct 2021 06:14:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.07(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202110/05/s4cuwa9g2khj.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202110/07/pa1taq7lkkse.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2021 WORLD DJ FESTIVAL 비대면 진행 안내 (위메프 공연티켓)]]></title>
