@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 08:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 09:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#Refresh on Friday 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/750</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/750</guid>
+            <pubDate>Tue, 12 Oct 2021 09:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202110/12/ze7tsfaypbec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Playlist] DUNK, MRCH  - 평범했던 당신의 일상에 사랑을 담아줄 노래 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/749</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/749</guid>
+            <pubDate>Tue, 12 Oct 2021 09:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202110/12/hgtrqynzvtpy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집들이: 우리집에 왜 왔니? - 성해빈&이고도 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/748</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/748</guid>
+            <pubDate>Tue, 12 Oct 2021 09:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202110/12/s1nvu0dryz8v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dear U From Bright : 박채린, 유다빈, 이준형 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/747</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/747</guid>
+            <pubDate>Tue, 12 Oct 2021 09:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202110/12/sbqeb8i0tojf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유니버설발레단 〈호두까기인형〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/746</link>
@@ -54,38 +86,6 @@
             <pubDate>Tue, 28 Sep 2021 05:10:57 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01(금) 17:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202109/28/u3vbpahtwap9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 세종 체임버시리즈 Ⅲ – 신창용 김동현 듀오 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/740</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/740</guid>
-            <pubDate>Mon, 27 Sep 2021 01:56:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202109/27/knhmuremtu6l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈일의 기쁨과 슬픔〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/739</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/739</guid>
-            <pubDate>Sat, 25 Sep 2021 19:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202109/24/pi8zonqqbcsf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 프리뷰 & 1차 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/738</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/738</guid>
-            <pubDate>Sat, 25 Sep 2021 19:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202109/23/gktsrmu9b0do.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈헤드윅〉 - 위메프 컬처데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/737</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/737</guid>
-            <pubDate>Sat, 25 Sep 2021 19:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.20(월) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202109/17/sykrjizchujm.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
