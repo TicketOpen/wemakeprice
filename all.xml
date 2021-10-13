@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 06:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 07:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공지]세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(10/21 21:00~24:00) N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/751</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/751</guid>
+            <pubDate>Wed, 13 Oct 2021 07:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지예정]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202110/13/31hew8ce5fyn.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#Refresh on Friday 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/750</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 Sep 2021 05:10:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01(금) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202109/29/fmyfugshhdmz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오픈일시변경] 뮤지컬 〈헤드윅〉 - 앵콜 컬처데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/741</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/741</guid>
-            <pubDate>Tue, 28 Sep 2021 05:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01(금) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202109/28/u3vbpahtwap9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
