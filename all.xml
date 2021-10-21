@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 군포 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/754</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/754</guid>
+            <pubDate>Thu, 21 Oct 2021 05:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25(월) 10:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202110/21/ti2kkbx8coaj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 안산 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/753</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/753</guid>
+            <pubDate>Thu, 21 Oct 2021 05:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25(월) 10:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202110/21/mnethgqjwy6x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 고양 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/752</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/752</guid>
+            <pubDate>Thu, 21 Oct 2021 05:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25(월) 10:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202110/21/4obbwitsezwj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공지]세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(10/21 21:00~24:00) (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/751</link>
@@ -62,30 +86,6 @@
             <pubDate>Fri, 01 Oct 2021 10:12:56 GMT</pubDate>
             <content:encoded><![CDATA[공연취소]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202110/01/wbzua5zyukjy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 하동균 단독 콘서트 〈Here I am〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/744</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/744</guid>
-            <pubDate>Fri, 01 Oct 2021 08:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.03(일) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202110/01/buverpajcgsx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈처음 만난 사이〉 - 대학로 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/743</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/743</guid>
-            <pubDate>Fri, 01 Oct 2021 03:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.04(월) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202110/01/jzkcbpu0kmek.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 RUN THE ZOMBIECITY 런 더 좀비시티 버추얼 레이스 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/742</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/742</guid>
-            <pubDate>Wed, 29 Sep 2021 05:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01(금) 20:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202109/29/fmyfugshhdmz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
