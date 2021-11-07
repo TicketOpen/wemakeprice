@@ -1,9 +1,19 @@
 [wemakeculture]
-title = "위메프 공연티켓"
+title = "위메프 공연티켓 ─ 티켓오픈공지"
 url = "https://ticket.wemakeprice.com/opennotice"
 entrySelector = "tbody[id='notiList'] tr"
 titleSelector = "div[class='title']"
 linkSelector = "td a"
 contentSelector = "span[class='date strong']"
 imageSelector = "div[class='img'] img"
+waitUntil = "networkidle"
+
+[wemakeculture_m]
+title = "모바일 위메프 공연티켓 ─ 티켓오픈공지"
+url = "https://mticket.wemakeprice.com/opennotice"
+entrySelector = "ul.unitList.search-result-list li"
+titleSelector = "div.title"
+linkSelector = "a"
+contentSelector = "div.time"
+imageSelector = "div.img img"
 waitUntil = "networkidle"
