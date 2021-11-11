@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 05:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 06:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 2차 티켓오픈 안내   N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/762</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/762</guid>
+            <pubDate>Thu, 11 Nov 2021 06:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.15(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202111/11/4qymtqtj8ofd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈젠틀맨스 가이드: 사랑과 살인편〉 - 위메프 컬처데이 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/761</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Oct 2021 21:11:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.25(월) 10:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202110/21/4obbwitsezwj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공지]세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(10/21 21:00~24:00)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/751</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/751</guid>
-            <pubDate>Fri, 22 Oct 2021 21:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지예정]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202110/13/31hew8ce5fyn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
