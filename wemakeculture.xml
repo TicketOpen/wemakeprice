@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 03:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 04:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈멸화군〉 - 위멮데이 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/764</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/764</guid>
+            <pubDate>Mon, 15 Nov 2021 04:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.16(화) 15:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202111/15/btfuy4ccqxm7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈장수상회〉 - 부천 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/763</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Oct 2021 21:11:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.25(월) 10:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202110/21/ti2kkbx8coaj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 안산 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/753</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/753</guid>
-            <pubDate>Fri, 22 Oct 2021 21:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.25(월) 10:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202110/21/mnethgqjwy6x.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
