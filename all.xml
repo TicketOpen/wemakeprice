@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 00:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 01:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[유니버설발레단 〈호두까기인형〉 3층 좌석 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[유니버설발레단 〈호두까기인형〉 3층 좌석 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/766</link>
             <guid>https://ticket.wemakeprice.com/opennotice/766</guid>
             <pubDate>Thu, 18 Nov 2021 05:11:38 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202111/18/awbce2ixekzt.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈엘리펀트 송〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[연극 〈엘리펀트 송〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/765</link>
             <guid>https://ticket.wemakeprice.com/opennotice/765</guid>
             <pubDate>Thu, 18 Nov 2021 02:26:56 GMT</pubDate>
