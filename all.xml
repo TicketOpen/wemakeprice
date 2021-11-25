@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 04:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 - 인천 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/768</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/768</guid>
+            <pubDate>Thu, 25 Nov 2021 05:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.27(토) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202111/25/1slb66cpwjaz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/767</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Nov 2021 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202111/01/gguihl2vxmnz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World DJ Festival 2022 (월드 디제이 페스티벌 2022) 슈퍼 얼리버드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/757</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/757</guid>
-            <pubDate>Fri, 29 Oct 2021 10:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01(월) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202110/29/j33qkbfk8q86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
