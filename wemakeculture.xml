@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 06:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Quattro Per Quattro 〈사계〉 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/769</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/769</guid>
+            <pubDate>Thu, 25 Nov 2021 06:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25(목) 15:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202111/25/1ffyoavkwmxc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈헤드윅〉 - 인천 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/768</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Nov 2021 01:57:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202111/04/yw1wyyd9ksam.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 김마리 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/758</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/758</guid>
-            <pubDate>Mon, 01 Nov 2021 09:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05(금) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202111/01/gguihl2vxmnz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
