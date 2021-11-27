@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 00:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 01:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202111/26/lfgm1w9haosm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[〈COUNTDOWN FANTASY 2021-2022 - 1회차〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[〈COUNTDOWN FANTASY 2021-2022 - 1회차〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/771</link>
             <guid>https://ticket.wemakeprice.com/opennotice/771</guid>
             <pubDate>Fri, 26 Nov 2021 02:27:14 GMT</pubDate>
