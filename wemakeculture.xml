@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초현실주의 거장들 - 예술의전당 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/774</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/774</guid>
+            <pubDate>Mon, 29 Nov 2021 08:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화)]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/22/202111/29/4pl6sistoenb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/773</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 04:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.16(화) 15:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202111/15/btfuy4ccqxm7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈장수상회〉 - 부천 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/763</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/763</guid>
-            <pubDate>Thu, 11 Nov 2021 07:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12(금) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202111/11/c6jyrxnw6b9n.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
