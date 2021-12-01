@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 02:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 02:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공지] 세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(12/6 20:00~24:00) N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/777</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/777</guid>
+            <pubDate>Wed, 01 Dec 2021 02:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지예정]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202112/01/o4x9ijc4gjio.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸딘스키, 말레비치＆러시아 아방가르드: 혁명의 예술展 - 2차 얼리버드 티켓오픈 안내  N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/776</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 09:12:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.29(월) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202111/24/avcugpdmsjik.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니버설발레단 〈호두까기인형〉 3층 좌석 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/766</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/766</guid>
-            <pubDate>Thu, 18 Nov 2021 05:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202111/18/awbce2ixekzt.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
