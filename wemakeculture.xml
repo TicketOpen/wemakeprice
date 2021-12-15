@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 01:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 02:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 Vector DJ Festival 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/781</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/781</guid>
+            <pubDate>Wed, 15 Dec 2021 02:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17(금) 11:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/15/202112/15/ionssc1jgddv.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 마지막 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/779</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Nov 2021 02:27:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30(화) 16:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202111/26/ayxpltuhsrje.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Quattro Per Quattro 〈사계〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/769</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/769</guid>
-            <pubDate>Thu, 25 Nov 2021 06:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25(목) 15:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202111/25/1ffyoavkwmxc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
