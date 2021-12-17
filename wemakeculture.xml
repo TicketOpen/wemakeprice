@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 09:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 10:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://ticket.wemakeprice.com/opennotice/783</link>
             <guid>https://ticket.wemakeprice.com/opennotice/783</guid>
             <pubDate>Wed, 15 Dec 2021 09:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.23(목) 00:00]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.21(화) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202112/15/ubhvuoqdwm0g.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
