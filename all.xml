@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 04:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202112/09/c53omfd2skvk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[얼리버드] 빛: 영국 테이트미술관 특별전 - 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[빛: 영국 테이트미술관 특별전 - 얼리버드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/778</link>
             <guid>https://ticket.wemakeprice.com/opennotice/778</guid>
             <pubDate>Wed, 08 Dec 2021 07:12:43 GMT</pubDate>
