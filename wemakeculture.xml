@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 02:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 02:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 - 위멮데이 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/784</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/784</guid>
+            <pubDate>Thu, 23 Dec 2021 02:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27(월) 17:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202112/23/urwxguihj0av.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼클로젯〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/783</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Nov 2021 05:11:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/11/202111/26/8wgcadrw7bhk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈COUNTDOWN FANTASY 2021-2022 - 2회차〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/772</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/772</guid>
-            <pubDate>Fri, 26 Nov 2021 02:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30(화) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202111/26/lfgm1w9haosm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
