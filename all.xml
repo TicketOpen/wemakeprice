@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 01:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 02:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202112/23/luwauviz4a4q.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 - 위멮데이 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/784</link>
             <guid>https://ticket.wemakeprice.com/opennotice/784</guid>
             <pubDate>Thu, 23 Dec 2021 02:41:43 GMT</pubDate>
