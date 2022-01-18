@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 04:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 05:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[연극 〈엘리펀트송〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[[오픈일시변경] 연극 〈엘리펀트송〉 -  위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/790</link>
             <guid>https://ticket.wemakeprice.com/opennotice/790</guid>
             <pubDate>Fri, 14 Jan 2022 09:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.20(목) 17:00]]></content:encoded>
+            <content:encoded><![CDATA[2022.01.20(목) 19:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/47/202201/14/61eibsprol09.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
