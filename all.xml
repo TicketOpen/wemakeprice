@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 08:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 09:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[78AVENUE] 78LIVE - Mingginyu (밍기뉴) 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/797</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/797</guid>
+            <pubDate>Mon, 31 Jan 2022 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.04(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202201/28/ujj5eeaepmvm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[78AVENUE] 78LIVE - 나상현씨밴드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/796</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 21:11:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.06(목) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202201/05/wb8s1fceaf3i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 ZOMBIERUN BUSAN 좀비런 부산 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/787</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/787</guid>
-            <pubDate>Thu, 27 Jan 2022 21:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.30(목) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202112/30/jomjys5okyf3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
