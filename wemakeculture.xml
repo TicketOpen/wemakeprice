@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 07:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 08:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[죽음을 대비하는 방법 ; 멸망편 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/803</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/803</guid>
+            <pubDate>Wed, 23 Feb 2022 08:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23(수)]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202202/23/xfaoajkfxp9u.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트 오브 뱅크시 앙코르 인 종로 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/802</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 21:11:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.26(수) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202201/21/nmi1pa2pbm4l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[78 FESTA - 심재현 in Office 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/793</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/793</guid>
-            <pubDate>Thu, 27 Jan 2022 21:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.26(수) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202201/21/aue3f409ktk1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
