@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 00:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 02:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 World DJ Festival (2022 월드 디제이 페스티벌) 개최 취소 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/809</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/809</guid>
+            <pubDate>Tue, 08 Mar 2022 02:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[공연취소]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202203/07/kdlhmbnxzqij.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/808</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 10 Feb 2022 06:14:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.10(목) 15:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202202/10/s1rngcbanq47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 경주 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/799</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/799</guid>
-            <pubDate>Thu, 10 Feb 2022 05:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202202/10/lub193ff42gl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
