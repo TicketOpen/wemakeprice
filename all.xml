@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 01:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공지] 시스템 정기점검으로 인한 서비스 일시 중단 안내 (3/26 03:00~06:00) N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/812</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/812</guid>
+            <pubDate>Fri, 18 Mar 2022 02:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지예정]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202203/18/woqho52gc3re.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레전더리 루이비통 트렁크展 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/811</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Feb 2022 08:14:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.23(수)]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202202/23/xfaoajkfxp9u.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트 오브 뱅크시 앙코르 인 종로 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/802</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/802</guid>
-            <pubDate>Tue, 22 Feb 2022 07:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.23(수) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202202/22/8pu0uuc7rqkm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
