@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌 6 〈흔들흔들 댄스파티〉 - 서울 앵콜 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/817</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/817</guid>
+            <pubDate>Wed, 23 Mar 2022 03:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.25(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202203/23/vbr3e6nsjokr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈디아길레프〉 - 위멮데이 티켓오픈 안내   N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/816</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Feb 2022 08:15:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.01(화) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202202/24/wbr4jymq2fus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈장수탕선녀님〉 - 대구 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/806</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/806</guid>
-            <pubDate>Thu, 24 Feb 2022 08:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.01(화) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202202/24/edrcyivq1hb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
