@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 07:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 정아로 티켓오픈 안내  N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[[78AVENUE] 78LIVE - 정아로 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/819</link>
             <guid>https://ticket.wemakeprice.com/opennotice/819</guid>
             <pubDate>Thu, 24 Mar 2022 09:15:31 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202203/24/wgpryo9aexp0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 김제형 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[[78AVENUE] 78LIVE - 김제형 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/818</link>
             <guid>https://ticket.wemakeprice.com/opennotice/818</guid>
             <pubDate>Thu, 24 Mar 2022 09:15:31 GMT</pubDate>
