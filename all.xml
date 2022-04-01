@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 어썸뮤직페스티벌 공연 취소 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/823</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/823</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[공연취소]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202204/01/rx6fgi35frdc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 가정의 달 스페셜 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/822</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 21:15:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18(금) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202203/18/temy6ttrgmoj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공지] 시스템 정기점검으로 인한 서비스 일시 중단 안내 (3/26 03:00~06:00) (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/812</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/812</guid>
-            <pubDate>Fri, 25 Mar 2022 21:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지예정]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202203/18/woqho52gc3re.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
