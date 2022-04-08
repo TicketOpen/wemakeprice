@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 킹아더 (Musical King Arthur) - 위메프 컬처데이 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/826</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/826</guid>
+            <pubDate>Fri, 08 Apr 2022 03:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202204/08/vhoqfekbukgx.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈미오 프라텔로〉 - 위멮데이 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/825</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 21:15:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.25(금) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202203/23/vbr3e6nsjokr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈디아길레프〉 - 위멮데이 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/816</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/816</guid>
-            <pubDate>Fri, 25 Mar 2022 21:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.25(금) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202203/22/d3kgemk0y1q9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
