@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 02:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://ticket.wemakeprice.com/opennotice/827</guid>
             <pubDate>Mon, 11 Apr 2022 02:48:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.12(화) 11:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-tproduct/9/721/3000007219/3000007219.png?20220330160339" length="0" type="image/png"/>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/06/202204/11/fonuim50mloh.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 킹아더 (Musical King Arthur) - 위메프 컬처데이 티켓오픈 안내]]></title>
