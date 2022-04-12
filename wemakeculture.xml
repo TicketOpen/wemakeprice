@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 00:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 02:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디어 슈베르트 (Dear Schubert) 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/829</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/829</guid>
+            <pubDate>Tue, 12 Apr 2022 02:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.13(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202204/12/mfshjd0kb7g5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷰티풀 민트 라이프 2022 추가 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/828</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202204/11/d7bf99ewjug4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일무(佾舞) 거리두기 좌석 오픈 안내 N]]></title>
+            <title><![CDATA[일무(佾舞) 거리두기 좌석 오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/827</link>
             <guid>https://ticket.wemakeprice.com/opennotice/827</guid>
             <pubDate>Mon, 11 Apr 2022 02:48:47 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Mar 2022 08:16:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.30(수) 19:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202203/29/ft1owlzkez2m.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 정아로 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/819</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/819</guid>
-            <pubDate>Fri, 25 Mar 2022 21:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.28(월) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202203/24/wgpryo9aexp0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
