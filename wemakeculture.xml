@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 08:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 09:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202204/12/mfshjd0kb7g5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뷰티풀 민트 라이프 2022 추가 티켓오픈 안내 N]]></title>
+            <title><![CDATA[뷰티풀 민트 라이프 2022 추가 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/828</link>
             <guid>https://ticket.wemakeprice.com/opennotice/828</guid>
             <pubDate>Mon, 11 Apr 2022 09:13:41 GMT</pubDate>
