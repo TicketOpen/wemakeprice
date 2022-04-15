@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 08:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 09:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 서울 앵콜 - 키즈컬처데이 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/832</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/832</guid>
+            <pubDate>Fri, 15 Apr 2022 09:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.19(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202204/15/t0iosnxtyrfk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/831</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202204/15/goiuzvfcxsb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 Vector DJ Festival 티켓오픈 안내 N]]></title>
+            <title><![CDATA[2022 Vector DJ Festival 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/830</link>
             <guid>https://ticket.wemakeprice.com/opennotice/830</guid>
             <pubDate>Thu, 14 Apr 2022 09:14:24 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Apr 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[공연취소]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202204/01/rx6fgi35frdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 가정의 달 스페셜 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/822</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/822</guid>
-            <pubDate>Fri, 01 Apr 2022 03:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.05(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/15/202204/01/rmcjxdrxopiv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
