@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 01:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/831</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/831</guid>
+            <pubDate>Fri, 15 Apr 2022 03:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.15(금) 16:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202204/15/goiuzvfcxsb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 Vector DJ Festival 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/830</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Apr 2022 03:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.05(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/15/202204/01/rmcjxdrxopiv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈오델로:죄〉 - 대학로 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/821</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/821</guid>
-            <pubDate>Fri, 01 Apr 2022 03:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.05(화) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202204/01/skkyxlbtpugd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
