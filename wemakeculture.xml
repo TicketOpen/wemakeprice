@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 02:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 03:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202204/15/t0iosnxtyrfk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈 안내 N]]></title>
+            <title><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/831</link>
             <guid>https://ticket.wemakeprice.com/opennotice/831</guid>
             <pubDate>Fri, 15 Apr 2022 03:04:37 GMT</pubDate>
