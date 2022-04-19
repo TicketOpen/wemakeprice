@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 08:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 09:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202204/19/fomev1crn4jr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - Lacuna(라쿠나) 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[[78AVENUE] 78LIVE - Lacuna(라쿠나) 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/834</link>
             <guid>https://ticket.wemakeprice.com/opennotice/834</guid>
             <pubDate>Mon, 18 Apr 2022 09:13:43 GMT</pubDate>
