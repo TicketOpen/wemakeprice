@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 03:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 04:29:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://ticket.wemakeprice.com/opennotice/835</link>
             <guid>https://ticket.wemakeprice.com/opennotice/835</guid>
             <pubDate>Tue, 19 Apr 2022 03:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.20(수) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2022.04.22(금) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202204/19/fomev1crn4jr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
