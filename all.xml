@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 08:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 09:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 서울파크뮤직페스티벌 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/838</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/838</guid>
+            <pubDate>Thu, 21 Apr 2022 09:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202204/21/3sezelglevlg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제14회 서울재즈페스티벌 2022 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/837</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Apr 2022 02:39:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.13(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202204/12/mfshjd0kb7g5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티풀 민트 라이프 2022 추가 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/828</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/828</guid>
-            <pubDate>Mon, 11 Apr 2022 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.18(월) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202204/11/d7bf99ewjug4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
