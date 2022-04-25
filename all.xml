@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 11:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 12:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://ticket.wemakeprice.com/opennotice/837</guid>
             <pubDate>Wed, 20 Apr 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27(수) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202204/20/ptznbz4rr1rr.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/15/202204/25/gszadgwbj7ko.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 레인보우 페스티벌 공연일정 연기 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
