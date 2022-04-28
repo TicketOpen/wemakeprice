@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 01:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈클림트〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/846</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/846</guid>
+            <pubDate>Thu, 28 Apr 2022 04:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.28(목) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202204/28/kv8ncniuhh7v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈볼륨업〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/845</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/845</guid>
+            <pubDate>Thu, 28 Apr 2022 04:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.28(목) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202204/28/ybbbi0wcbwy7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이민혁 1st FAN MEETING ＇우리 손잡고＇ 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/844</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 20 Apr 2022 08:19:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27(수) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/15/202204/25/gszadgwbj7ko.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 레인보우 페스티벌 공연일정 연기 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/836</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/836</guid>
-            <pubDate>Tue, 19 Apr 2022 05:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지예정]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202204/19/86j4rq0zkmg0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/835</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/835</guid>
-            <pubDate>Tue, 19 Apr 2022 03:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22(금) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202204/19/fomev1crn4jr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
