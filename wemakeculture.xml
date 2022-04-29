@@ -4,11 +4,11 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 03:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 04:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈클림트〉 티켓오픈 안내 N]]></title>
+            <title><![CDATA[뮤지컬 〈클림트〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/846</link>
             <guid>https://ticket.wemakeprice.com/opennotice/846</guid>
             <pubDate>Thu, 28 Apr 2022 04:07:47 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202204/28/kv8ncniuhh7v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈볼륨업〉 티켓오픈 안내 N]]></title>
+            <title><![CDATA[뮤지컬 〈볼륨업〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/845</link>
             <guid>https://ticket.wemakeprice.com/opennotice/845</guid>
             <pubDate>Thu, 28 Apr 2022 04:07:47 GMT</pubDate>
