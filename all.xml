@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 03:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 04:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워터밤 인천 2022 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/849</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/849</guid>
+            <pubDate>Wed, 04 May 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.06(금) 11:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202205/04/klmfcbexruho.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 수원 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/848</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Apr 2022 07:13:53 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.28(목) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202204/25/jytj8ygqwsk2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - OurR(아월) 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/839</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/839</guid>
-            <pubDate>Fri, 22 Apr 2022 09:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.25(월) 19:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202204/22/roaex1toyoq3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
