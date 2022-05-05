@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 03:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 04:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202205/04/qocscrivkqxm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[워터밤 인천 2022 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[워터밤 인천 2022 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/849</link>
             <guid>https://ticket.wemakeprice.com/opennotice/849</guid>
             <pubDate>Wed, 04 May 2022 04:27:08 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202205/04/klmfcbexruho.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 수원 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 수원 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/848</link>
             <guid>https://ticket.wemakeprice.com/opennotice/848</guid>
             <pubDate>Wed, 04 May 2022 03:22:21 GMT</pubDate>
