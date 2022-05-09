@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 01:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공지] 세종문화회관 시스템 점검으로 인한 실시간 연동 판매 서비스 중단 안내(5/9 21:00~24:00) N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/854</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/854</guid>
+            <pubDate>Mon, 09 May 2022 01:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지예정]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/49/202205/09/mpeicn6atwxy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MPMG ACADEMY 기획공연] 놀러 와요, 다락방에 : 양창근 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/853</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Apr 2022 04:07:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.28(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202204/28/ybbbi0wcbwy7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민혁 1st FAN MEETING ＇우리 손잡고＇ 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/844</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/844</guid>
-            <pubDate>Wed, 27 Apr 2022 10:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.02(월) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202204/27/dyory0gdipsz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
