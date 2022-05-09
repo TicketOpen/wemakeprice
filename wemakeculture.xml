@@ -4,9 +4,25 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워터밤 수원 2022 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/856</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/856</guid>
+            <pubDate>Mon, 09 May 2022 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.10(화) 11:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202205/09/0g3ux8cm5wcn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워터밤 대구 2022 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/855</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/855</guid>
+            <pubDate>Mon, 09 May 2022 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.10(화) 11:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202205/09/rrf8kmuz9wum.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공지] 세종문화회관 시스템 점검으로 인한 실시간 연동 판매 서비스 중단 안내(5/9 21:00~24:00) N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/854</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 29 Apr 2022 09:14:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202204/29/2052fbh8ntkv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈클림트〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/846</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/846</guid>
-            <pubDate>Thu, 28 Apr 2022 04:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.28(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202204/28/kv8ncniuhh7v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈볼륨업〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/845</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/845</guid>
-            <pubDate>Thu, 28 Apr 2022 04:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.28(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202204/28/ybbbi0wcbwy7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
