@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 01:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202205/09/uf0kchufu2g7.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[워터밤 수원 2022 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[워터밤 수원 2022 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/856</link>
             <guid>https://ticket.wemakeprice.com/opennotice/856</guid>
             <pubDate>Mon, 09 May 2022 03:18:18 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202205/09/0g3ux8cm5wcn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[워터밤 대구 2022 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[워터밤 대구 2022 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/855</link>
             <guid>https://ticket.wemakeprice.com/opennotice/855</guid>
             <pubDate>Mon, 09 May 2022 03:18:18 GMT</pubDate>
