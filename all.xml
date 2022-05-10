@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 23:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 01:00:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202205/09/rrf8kmuz9wum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[공지] 세종문화회관 시스템 점검으로 인한 실시간 연동 판매 서비스 중단 안내(5/9 21:00~24:00) N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[[공지] 세종문화회관 시스템 점검으로 인한 실시간 연동 판매 서비스 중단 안내(5/9 21:00~24:00) (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/854</link>
             <guid>https://ticket.wemakeprice.com/opennotice/854</guid>
             <pubDate>Mon, 09 May 2022 01:03:57 GMT</pubDate>
