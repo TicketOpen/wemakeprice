@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 01:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 03:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://ticket.wemakeprice.com/opennotice/866</guid>
             <pubDate>Sun, 22 May 2022 02:46:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.23(월) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202205/18/0uwxynyo9fpc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202205/23/i6biwidac3zi.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[공지] 2022년도 티켓 배송료 인상 안내]]></title>
