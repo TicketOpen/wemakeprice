@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 06:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 07:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[W필하모닉오케스트라 〈말러 교향곡 1번 '거인'〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/867</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/867</guid>
+            <pubDate>Tue, 24 May 2022 07:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27(금) 10:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/05/202205/24/4nmqv1tj3tbo.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원더러스트 코리아 2022 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/866</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 May 2022 08:18:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.19(목) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202205/10/ftwx142yam8s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈차미〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/857</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/857</guid>
-            <pubDate>Mon, 09 May 2022 10:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.13(금) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202205/09/uf0kchufu2g7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
