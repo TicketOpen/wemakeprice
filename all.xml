@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/869</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/869</guid>
+            <pubDate>Mon, 30 May 2022 01:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 16:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202205/30/xs0debeblvwk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타루 콘서트 새로운 길 오늘도 내일도 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/868</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 02:46:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.16(월) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202205/13/ywnqlpvplohr.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sync Next 22 - 박다울 〈ㄱㅓㅁㅜㄴㄱㅗ〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/859</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/859</guid>
-            <pubDate>Sun, 22 May 2022 02:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.18(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202205/13/xgz3q8cr1uf8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
