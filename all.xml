@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 01:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루이스 웨인展 : 고양이를 그린 사랑의 화가 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/872</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/872</guid>
+            <pubDate>Tue, 31 May 2022 03:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/10/202205/31/yjer8yflxng4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 알렌 워커(Alan Walker) 내한공연 티켓오픈 안내  N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/871</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 02:46:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.18(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202205/18/6vjghj3dxch0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 페스티벌 2022 - 얼리버드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/862</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/862</guid>
-            <pubDate>Sun, 22 May 2022 02:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.19(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202205/16/m2jrltm5ue8r.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
