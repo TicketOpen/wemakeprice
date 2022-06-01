@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 01:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 04:00:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202205/31/nwin1xhyilxg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[루이스 웨인展 : 고양이를 그린 사랑의 화가 티켓오픈 안내 N]]></title>
+            <title><![CDATA[루이스 웨인展 : 고양이를 그린 사랑의 화가 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/872</link>
             <guid>https://ticket.wemakeprice.com/opennotice/872</guid>
             <pubDate>Tue, 31 May 2022 03:20:48 GMT</pubDate>
