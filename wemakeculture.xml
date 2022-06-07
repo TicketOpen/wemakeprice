@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 04:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 05:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 World DJ Festival 1차 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/876</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/876</guid>
+            <pubDate>Tue, 07 Jun 2022 05:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.13(월) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/54/202206/07/ieb1heolvb2h.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레인보우 뮤직＆캠핑 페스티벌 2022 - 캠핑권 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/875</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 May 2022 07:14:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.27(금) 10:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/05/202205/24/4nmqv1tj3tbo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원더러스트 코리아 2022 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/866</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/866</guid>
-            <pubDate>Sun, 22 May 2022 02:46:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.23(월) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202205/23/i6biwidac3zi.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
