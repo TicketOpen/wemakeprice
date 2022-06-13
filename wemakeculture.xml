@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 01:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 03:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워터밤 부산 2022 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/879</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/879</guid>
+            <pubDate>Mon, 13 Jun 2022 03:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.14(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/11/202206/13/vajln22c4rbp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈모래시계〉 - 위메프 컬처데이 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/878</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 May 2022 06:22:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.03(금) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202205/30/ayaryeqjaogm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/869</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/869</guid>
-            <pubDate>Mon, 30 May 2022 01:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.03(금) 16:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202205/30/xs0debeblvwk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
