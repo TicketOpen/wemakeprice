@@ -4,9 +4,33 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 08:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최현우의 아판타시아(Aphantasia) - 서울 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/885</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/885</guid>
+            <pubDate>Wed, 15 Jun 2022 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17(금) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202206/15/7xzyurw5wu1k.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 수원 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/884</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/884</guid>
+            <pubDate>Wed, 15 Jun 2022 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17(금) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202206/15/dgyt2zmpvork.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 부산 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/883</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/883</guid>
+            <pubDate>Wed, 15 Jun 2022 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17(금) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/39/202206/15/n6s3z8do84yt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#SSAP CONCERT 첫 번째 이야기［RETURN TO DAILY LIFE］ 에일리X정승환 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/882</link>
@@ -24,7 +48,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202206/15/yrgpuhw435pe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 신촌물총축제 2차 티켓오픈 안내 N]]></title>
+            <title><![CDATA[2022 신촌물총축제 2차 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/880</link>
             <guid>https://ticket.wemakeprice.com/opennotice/880</guid>
             <pubDate>Tue, 14 Jun 2022 09:18:10 GMT</pubDate>
@@ -62,30 +86,6 @@
             <pubDate>Tue, 07 Jun 2022 05:12:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.13(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202206/10/zkuzth1avtrg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 뮤직＆캠핑 페스티벌 2022 - 캠핑권 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/875</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/875</guid>
-            <pubDate>Fri, 03 Jun 2022 02:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202206/03/fy9sbac24gof.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈포미니츠〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/874</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/874</guid>
-            <pubDate>Thu, 02 Jun 2022 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.03(금) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202206/02/w4b0hosshr4h.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Vector : The Return 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/873</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/873</guid>
-            <pubDate>Tue, 31 May 2022 07:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.03(금) 12:30]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202205/31/nwin1xhyilxg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
