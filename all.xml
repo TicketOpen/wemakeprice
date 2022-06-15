@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 04:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 05:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#SSAP CONCERT 첫 번째 이야기［RETURN TO DAILY LIFE］ 에일리X정승환 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/882</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/882</guid>
+            <pubDate>Wed, 15 Jun 2022 05:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.16(목) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202206/15/9rhyaoimmnni.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 UNI-KON 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/881</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/881</guid>
+            <pubDate>Wed, 15 Jun 2022 05:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.21(화) 20:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202206/15/yrgpuhw435pe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 신촌물총축제 2차 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/880</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 31 May 2022 07:14:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.03(금) 12:30]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202205/31/nwin1xhyilxg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이스 웨인展 : 고양이를 그린 사랑의 화가 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/872</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/872</guid>
-            <pubDate>Tue, 31 May 2022 03:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.31(화) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/10/202205/31/yjer8yflxng4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 알렌 워커(Alan Walker) 내한공연 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/871</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/871</guid>
-            <pubDate>Tue, 31 May 2022 01:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07(화) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202205/31/yvucnw2soog2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
