@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 03:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/39/202206/15/n6s3z8do84yt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#SSAP CONCERT 첫 번째 이야기［RETURN TO DAILY LIFE］ 에일리X정승환 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[#SSAP CONCERT 첫 번째 이야기［RETURN TO DAILY LIFE］ 에일리X정승환 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/882</link>
             <guid>https://ticket.wemakeprice.com/opennotice/882</guid>
             <pubDate>Wed, 15 Jun 2022 05:17:36 GMT</pubDate>
