@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 01:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 04:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 코드 뮤직 페스티벌 1차 오피셜 티켓오픈 안내  N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/887</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/887</guid>
+            <pubDate>Fri, 17 Jun 2022 04:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202206/17/3scipqrk3g5j.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 - 위멮데이 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/886</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/886</guid>
+            <pubDate>Fri, 17 Jun 2022 04:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202206/17/bg8y0zpwtytt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최현우의 아판타시아(Aphantasia) - 서울 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/885</link>
@@ -45,7 +61,7 @@
             <guid>https://ticket.wemakeprice.com/opennotice/881</guid>
             <pubDate>Wed, 15 Jun 2022 05:17:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.21(화) 20:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202206/16/zyvcaai1ke3j.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202206/17/v0bcnosrgggy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 신촌물총축제 2차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 08 Jun 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.10(금) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202206/08/sb41ftjyubqq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈카파이즘〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/877</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/877</guid>
-            <pubDate>Wed, 08 Jun 2022 06:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.13(월) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202206/08/sz5yfloq1qfn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 World DJ Festival 1차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/876</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/876</guid>
-            <pubDate>Tue, 07 Jun 2022 05:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.13(월) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202206/10/zkuzth1avtrg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
