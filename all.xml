@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 23:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 01:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202206/17/unnhdpfu9o6t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 코드 뮤직 페스티벌 1차 오피셜 티켓오픈 안내  N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[2022 코드 뮤직 페스티벌 1차 오피셜 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/887</link>
             <guid>https://ticket.wemakeprice.com/opennotice/887</guid>
             <pubDate>Fri, 17 Jun 2022 04:27:52 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202206/17/mu2capp4wpx1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈포미니츠〉 - 위멮데이 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/886</link>
             <guid>https://ticket.wemakeprice.com/opennotice/886</guid>
             <pubDate>Fri, 17 Jun 2022 04:27:52 GMT</pubDate>
