@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 07:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 08:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈난세〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[뮤지컬 〈난세〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/888</link>
             <guid>https://ticket.wemakeprice.com/opennotice/888</guid>
             <pubDate>Fri, 17 Jun 2022 08:22:34 GMT</pubDate>
