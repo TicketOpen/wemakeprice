@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 UNI-KON 추가 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/890</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/890</guid>
+            <pubDate>Thu, 23 Jun 2022 05:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202206/23/jpmnszisbrvo.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HAUS OF WONDER(하우스 오브 원더) 일반예매 2차 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/889</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 05:17:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.21(화) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202206/17/v0bcnosrgggy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신촌물총축제 2차 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/880</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/880</guid>
-            <pubDate>Tue, 14 Jun 2022 09:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16(목) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202206/14/grshnkwbx4nd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
