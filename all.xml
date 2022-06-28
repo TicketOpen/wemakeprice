@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 03:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 04:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 아시아프 ＆ 히든아티스트 페스티벌 (2022 ASYAAF ＆ Hidden Artists Festival) 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/895</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/895</guid>
+            <pubDate>Tue, 28 Jun 2022 04:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01(금) 10:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202206/28/kzndmp7qrnbk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022  2차 라인업 및 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/894</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 04:27:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.20(월) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202206/17/bg8y0zpwtytt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최현우의 아판타시아(Aphantasia) - 서울 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/885</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/885</guid>
-            <pubDate>Wed, 15 Jun 2022 09:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17(금) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202206/15/7xzyurw5wu1k.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
