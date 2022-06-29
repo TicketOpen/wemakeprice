@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 01:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 03:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202206/28/kzndmp7qrnbk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022  2차 라인업 및 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022  2차 라인업 및 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/894</link>
             <guid>https://ticket.wemakeprice.com/opennotice/894</guid>
             <pubDate>Tue, 28 Jun 2022 03:40:33 GMT</pubDate>
