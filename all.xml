@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 09:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 10:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2022 슈퍼바이브페스티벌 in 퍼시픽리솜 - 제주 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[슈퍼바이브페스티벌 in 제주 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/897</link>
             <guid>https://ticket.wemakeprice.com/opennotice/897</guid>
             <pubDate>Fri, 01 Jul 2022 09:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.06(수) 22:00]]></content:encoded>
+            <content:encoded><![CDATA[2022.07.06(수) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202207/01/xpuv1p6qoiqh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
