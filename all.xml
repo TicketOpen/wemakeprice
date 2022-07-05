@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 06:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 1차 티켓오픈안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/899</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/899</guid>
+            <pubDate>Tue, 05 Jul 2022 06:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.06(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202207/05/p6rgktgoxaqh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 서울시뮤지컬단 뮤지컬 〈원더보이〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/898</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Jun 2022 06:17:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24(금) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202206/22/7woe3nslimdy.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈난세〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/888</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/888</guid>
-            <pubDate>Fri, 17 Jun 2022 08:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20(월) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202206/17/unnhdpfu9o6t.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
