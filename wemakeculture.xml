@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 01:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 03:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202207/05/q85xzctfu4tk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 1차 티켓오픈안내 N]]></title>
+            <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 1차 티켓오픈안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/899</link>
             <guid>https://ticket.wemakeprice.com/opennotice/899</guid>
             <pubDate>Tue, 05 Jul 2022 06:17:42 GMT</pubDate>
