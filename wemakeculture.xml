@@ -4,11 +4,19 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 01:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 03:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 2차 티켓오픈안내 N]]></title>
+            <title><![CDATA[2022 조이올팍페스티벌 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/906</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/906</guid>
+            <pubDate>Wed, 13 Jul 2022 03:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202207/13/ty7lt4tc40rr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 2차 티켓오픈안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/905</link>
             <guid>https://ticket.wemakeprice.com/opennotice/905</guid>
             <pubDate>Tue, 12 Jul 2022 03:58:57 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Jul 2022 09:13:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.06(수) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202207/01/xpuv1p6qoiqh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈더 헬멧〉 - 위멮데이 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/896</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/896</guid>
-            <pubDate>Thu, 30 Jun 2022 05:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.05(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202206/30/wnnsaejarioo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
