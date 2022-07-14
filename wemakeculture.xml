@@ -4,11 +4,19 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 01:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 03:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2022 조이올팍페스티벌 1차 티켓오픈 안내 N]]></title>
+            <title><![CDATA[마이크로 서울 2022 : NFT 사운드 페스타 얼리버드 티켓오픈 안내  N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/907</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/907</guid>
+            <pubDate>Thu, 14 Jul 2022 03:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18(월) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202207/14/whmhe8uaeujc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 조이올팍페스티벌 1차 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/906</link>
             <guid>https://ticket.wemakeprice.com/opennotice/906</guid>
             <pubDate>Wed, 13 Jul 2022 03:37:28 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Jul 2022 03:46:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.06(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/35/202207/04/djbxs6kxkhfz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼바이브페스티벌 in 제주 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/897</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/897</guid>
-            <pubDate>Fri, 01 Jul 2022 09:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.06(수) 20:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202207/01/xpuv1p6qoiqh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
