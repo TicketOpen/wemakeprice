@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 01:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 03:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 15 Jul 2022 05:00:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18(월) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/35/202207/15/w1dmkze5lzbx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로 서울 2022 : NFT 사운드 페스타 얼리버드 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/907</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/907</guid>
-            <pubDate>Thu, 14 Jul 2022 03:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.18(월) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202207/14/whmhe8uaeujc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 조이올팍페스티벌 1차 티켓오픈 안내]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Tue, 05 Jul 2022 07:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.07(목) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202207/05/q85xzctfu4tk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 1차 티켓오픈안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/899</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/899</guid>
+            <pubDate>Mon, 18 Jul 2022 03:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.06(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202207/05/p6rgktgoxaqh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
