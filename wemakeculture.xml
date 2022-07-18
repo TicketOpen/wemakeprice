@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[78AVENUE] 78LIVE - 행로난 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/910</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/910</guid>
+            <pubDate>Mon, 18 Jul 2022 09:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20(수) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202207/18/m3wdvdy9y3ft.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈말리의 어제보다 특별한 오늘〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/909</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Jul 2022 07:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.07(목) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202207/05/q85xzctfu4tk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 1차 티켓오픈안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/899</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/899</guid>
-            <pubDate>Mon, 18 Jul 2022 03:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.06(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202207/05/p6rgktgoxaqh.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
