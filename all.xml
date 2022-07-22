@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 01:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[연극 〈살아있는 자를 수선하기〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 부천 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/913</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/913</guid>
+            <pubDate>Fri, 22 Jul 2022 03:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.26(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202207/22/bfflk8up8r1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈살아있는 자를 수선하기〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/912</link>
             <guid>https://ticket.wemakeprice.com/opennotice/912</guid>
             <pubDate>Thu, 21 Jul 2022 03:40:50 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 07:13:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202207/11/fwsr4nq1ekys.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2022 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/902</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/902</guid>
-            <pubDate>Fri, 08 Jul 2022 05:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.12(화) 19:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202207/08/auuio0u5ckuw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
