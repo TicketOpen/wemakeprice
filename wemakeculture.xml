@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 08:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 09:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[78AVENUE] 78LIVE - OurR(아월) 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/914</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/914</guid>
+            <pubDate>Fri, 22 Jul 2022 09:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.25(월) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202207/22/zn5puqj7lb8v.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 부천 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/913</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 07:13:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202207/11/6rggcxv7491c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제18회 제천국제음악영화제 A TEMPO JIMFF FESTIVAL - ONE SUMMER NIGHT : 그루비 나잇 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/903</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/903</guid>
-            <pubDate>Mon, 11 Jul 2022 07:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202207/11/fwsr4nq1ekys.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
