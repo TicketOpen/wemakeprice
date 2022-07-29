@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 03:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 04:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202207/28/1xki6wacm2w4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울숲재즈페스티벌 2022 - 공식 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[서울숲재즈페스티벌 2022 - 공식 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/918</link>
             <guid>https://ticket.wemakeprice.com/opennotice/918</guid>
             <pubDate>Thu, 28 Jul 2022 05:23:37 GMT</pubDate>
