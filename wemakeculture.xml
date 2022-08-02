@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 06:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 07:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202208/01/hkym0fwvsqhk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈살아있는 자를 수선하기〉 - 위멮데이 티켓오픈 안내 N]]></title>
+            <title><![CDATA[연극 〈살아있는 자를 수선하기〉 - 위멮데이 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/920</link>
             <guid>https://ticket.wemakeprice.com/opennotice/920</guid>
             <pubDate>Mon, 01 Aug 2022 07:19:37 GMT</pubDate>
