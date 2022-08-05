@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 06:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 솔루션스 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[[78AVENUE] 78LIVE - 솔루션스 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/927</link>
             <guid>https://ticket.wemakeprice.com/opennotice/927</guid>
             <pubDate>Thu, 04 Aug 2022 09:13:18 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202208/04/rdmzfoopsrfi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울페스타 2022 - 개막식 2차 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[서울페스타 2022 - 개막식 2차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/926</link>
             <guid>https://ticket.wemakeprice.com/opennotice/926</guid>
             <pubDate>Thu, 04 Aug 2022 07:12:42 GMT</pubDate>
