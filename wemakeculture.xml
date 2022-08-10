@@ -4,9 +4,25 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 08:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 안산 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/929</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/929</guid>
+            <pubDate>Wed, 10 Aug 2022 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12(금) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202208/10/t8nr0dfhrx8t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Vector - The Return 스페셜 얼리버드 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/928</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/928</guid>
+            <pubDate>Wed, 10 Aug 2022 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12(금) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202208/10/0ihu2jvvd8wt.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[78AVENUE] 78LIVE - 솔루션스 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/927</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 28 Jul 2022 11:13:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.01(월) 11:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202207/28/1xki6wacm2w4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2022 - 공식 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/918</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/918</guid>
-            <pubDate>Thu, 28 Jul 2022 05:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.02(화) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202207/28/vtzw16mkrvnu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLOCK PARTY 2022 (블록파티 2022) 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/917</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/917</guid>
-            <pubDate>Wed, 27 Jul 2022 07:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28(목) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202207/27/oxdqtmeix2ei.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
