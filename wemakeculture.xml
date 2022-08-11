@@ -4,11 +4,19 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 안산 티켓오픈 안내 N]]></title>
+            <title><![CDATA[그랜드 민트 페스티벌 2022 공식 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/930</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/930</guid>
+            <pubDate>Thu, 11 Aug 2022 09:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.23(화) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202208/11/jlo612b0sfwa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 안산 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/929</link>
             <guid>https://ticket.wemakeprice.com/opennotice/929</guid>
             <pubDate>Wed, 10 Aug 2022 09:14:16 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202208/10/t8nr0dfhrx8t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 Vector - The Return 스페셜 얼리버드 티켓오픈 안내 N]]></title>
+            <title><![CDATA[2022 Vector - The Return 스페셜 얼리버드 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/928</link>
             <guid>https://ticket.wemakeprice.com/opennotice/928</guid>
             <pubDate>Wed, 10 Aug 2022 09:14:16 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Aug 2022 07:19:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.04(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202208/01/xakenjdgy6z7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 여수 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/919</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/919</guid>
-            <pubDate>Thu, 28 Jul 2022 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.01(월) 11:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202207/28/1xki6wacm2w4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
