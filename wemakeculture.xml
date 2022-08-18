@@ -4,11 +4,35 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 01:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 03:59:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내 N]]></title>
+            <title><![CDATA[〈LOVE IN SEOUL 2022 - 콜 미 바이 유어 네임 인 콘서트〉 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/938</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/938</guid>
+            <pubDate>Thu, 18 Aug 2022 03:58:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/06/202208/18/cql6ceonfjfm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈LOVE IN SEOUL 2022 - 포레스텔라〉 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/937</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/937</guid>
+            <pubDate>Thu, 18 Aug 2022 03:58:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/05/202208/18/bxrievanwfu3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈LOVE IN SEOUL 2022 - 위플래쉬 인 콘서트〉 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/935</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/935</guid>
+            <pubDate>Thu, 18 Aug 2022 03:58:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/54/202208/18/jmijinv4fhfy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/934</link>
             <guid>https://ticket.wemakeprice.com/opennotice/934</guid>
             <pubDate>Wed, 17 Aug 2022 05:05:19 GMT</pubDate>
@@ -16,7 +40,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202208/17/7cngpq9e2dev.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원더티켓 - 수호나무의 부활 (인제) 티켓오픈 안내 N]]></title>
+            <title><![CDATA[원더티켓 - 수호나무의 부활 (인제) 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/933</link>
             <guid>https://ticket.wemakeprice.com/opennotice/933</guid>
             <pubDate>Wed, 17 Aug 2022 05:05:19 GMT</pubDate>
@@ -62,30 +86,6 @@
             <pubDate>Wed, 10 Aug 2022 09:14:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.12(금) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202208/10/0ihu2jvvd8wt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 솔루션스 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/927</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/927</guid>
-            <pubDate>Thu, 04 Aug 2022 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.09(화) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202208/04/rdmzfoopsrfi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울페스타 2022 - 개막식 2차 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/926</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/926</guid>
-            <pubDate>Thu, 04 Aug 2022 07:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.05(금) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202208/04/sq6ybfdjo4qn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[78AVENUE] 응답하라 일구구만 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/925</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/925</guid>
-            <pubDate>Wed, 03 Aug 2022 10:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.08(월) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/22/202208/03/ag99mdw652nb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
