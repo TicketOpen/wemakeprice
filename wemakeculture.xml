@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 08:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202208/18/1zcr2jmsit3a.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[레인보우 페스티벌 캠핑권 추가 오픈 안내 N]]></title>
+            <title><![CDATA[레인보우 페스티벌 캠핑권 추가 오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/939</link>
             <guid>https://ticket.wemakeprice.com/opennotice/939</guid>
             <pubDate>Thu, 18 Aug 2022 08:17:37 GMT</pubDate>
