@@ -4,9 +4,33 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 01:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 04:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOVE IN SEOUL 2022 - 알렉 벤자민(Alec Benjamin) 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/949</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/949</guid>
+            <pubDate>Mon, 29 Aug 2022 04:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.05(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202208/29/3is3fbu2vd4o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE IN SEOUL 2022 - 이승윤 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/948</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/948</guid>
+            <pubDate>Mon, 29 Aug 2022 04:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.05(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/49/202208/29/phtdoxx0vofh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE IN SEOUL 2022 - 악뮤(AKMU) 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/947</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/947</guid>
+            <pubDate>Mon, 29 Aug 2022 04:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.05(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202208/29/v0j6k4xtw0dg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈2022 명동우주맥주페스티벌〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/946</link>
@@ -62,30 +86,6 @@
             <pubDate>Thu, 18 Aug 2022 10:17:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19(금) 11:30]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202208/18/1zcr2jmsit3a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 페스티벌 캠핑권 추가 오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/939</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/939</guid>
-            <pubDate>Thu, 18 Aug 2022 08:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19(금) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202208/18/gbjf4h1rxkej.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈LOVE IN SEOUL 2022 - 콜 미 바이 유어 네임 인 콘서트〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/938</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/938</guid>
-            <pubDate>Thu, 18 Aug 2022 03:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.25(목) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/06/202208/18/cql6ceonfjfm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈LOVE IN SEOUL 2022 - 포레스텔라〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/937</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/937</guid>
-            <pubDate>Thu, 18 Aug 2022 03:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.25(목) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/05/202208/18/bxrievanwfu3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
