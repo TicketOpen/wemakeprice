@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 06:00:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:52:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 NEW 공룡테마파크 DINOBAY - 얼리버드 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/951</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/951</guid>
+            <pubDate>Mon, 05 Sep 2022 06:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08(목) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202209/05/8o1nlltltcfz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 청춘아레나 - 대구 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/950</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Aug 2022 05:24:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.23(화) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202208/19/9qcbzi5fobuw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시규어 로스 내한공연(Sigur Ros Live in Seoul) 취소 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/941</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/941</guid>
-            <pubDate>Fri, 19 Aug 2022 03:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[공연취소]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202208/19/97axksseefrx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
