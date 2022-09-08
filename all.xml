@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 07:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202209/07/uco4rmzr7ff2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 타임캡슐 슈퍼콘서트 - 부산 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[2022 타임캡슐 슈퍼콘서트 - 부산 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/957</link>
             <guid>https://ticket.wemakeprice.com/opennotice/957</guid>
             <pubDate>Wed, 07 Sep 2022 07:38:35 GMT</pubDate>
