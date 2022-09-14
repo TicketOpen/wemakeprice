@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 04:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 06:04:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 청춘아레나 - 인천 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/962</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/962</guid>
+            <pubDate>Wed, 14 Sep 2022 06:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15(목) 15:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202209/14/rlb00ckogv1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김창옥 토크콘서트 시즌 3 - 서울 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/961</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/961</guid>
+            <pubDate>Wed, 14 Sep 2022 06:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.18(일) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202209/14/tfxgu0dbwwya.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 제14회 가을 고아웃캠프 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/960</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 07 Sep 2022 04:22:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.08(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202209/07/hpnnga9su93d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 NEW 공룡테마파크 DINOBAY - 얼리버드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/951</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/951</guid>
-            <pubDate>Mon, 05 Sep 2022 06:52:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08(목) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202209/05/8o1nlltltcfz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 청춘아레나 - 대구 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/950</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/950</guid>
-            <pubDate>Tue, 30 Aug 2022 07:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.02(금) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202208/30/bnasa9b1p7du.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
