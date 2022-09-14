@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 01:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 04:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202209/13/0h7a6hmxwl0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 더팩트 뮤직 어워즈 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[2022 더팩트 뮤직 어워즈 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/959</link>
             <guid>https://ticket.wemakeprice.com/opennotice/959</guid>
             <pubDate>Tue, 13 Sep 2022 04:17:13 GMT</pubDate>
