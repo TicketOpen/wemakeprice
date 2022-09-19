@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 01:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 04:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 키드 라로이 내한공연 (The Kid LAROI Live in Seoul) 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/963</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/963</guid>
+            <pubDate>Mon, 19 Sep 2022 04:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.21(수) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202209/19/xzi6z49adgbk.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 청춘아레나 - 인천 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/962</link>
@@ -29,7 +37,7 @@
             <guid>https://ticket.wemakeprice.com/opennotice/960</guid>
             <pubDate>Tue, 13 Sep 2022 10:17:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.20(화) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202209/13/0h7a6hmxwl0b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/47/202209/19/dac0r8i9xajg.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 더팩트 뮤직 어워즈 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Sep 2022 04:22:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.14(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202209/07/1ln55pcfepmj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해리 포터와 아즈카반의 죄수™ 인 콘서트 - 발코니석 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/952</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/952</guid>
-            <pubDate>Wed, 07 Sep 2022 04:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202209/07/hpnnga9su93d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
