@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/wemakeprice/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-16T15:16:19.143Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:18:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어송라이터 시리즈 - 이영훈 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1001</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1001</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202211/15/uon1hkbfjpsq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 시리즈 - 마마스건(Mamas Gun) 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1000</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1000</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/47/202211/15/u8bhs8gwt4k0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 시리즈 - 예빛 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/999</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/999</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202211/15/6w6nf4fzf32t.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BUDX FIFA FAN FESTIVAL 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/998</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/998</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.11(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202211/11/g3nlobwifds8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 SPEARHEAD FESTIVAL 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/997</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/997</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.11(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202211/11/2hhtyrdlttxf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 〈판타지아 시즌2〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/996</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/996</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.14(월) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202211/10/4f4pjvjanlwy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스에 뭐하니？ 일반 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/995</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/995</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.11(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/57/202211/15/ug4v7ljsnreq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[78AVENUE] 78LIVE - onthedal 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/994</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/994</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.10(목) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/43/202211/08/0tkmj2n1qafy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일산/부산/대구 키즈월드 - 얼리버드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/993</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/993</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.08(화)]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202211/08/tca9trpldyhx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 시리즈 - 정세운 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/992</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/992</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202211/08/upa7fak3ittr.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
