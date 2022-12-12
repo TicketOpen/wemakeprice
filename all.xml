@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 06:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 오펀스(Orphans) - 위멮데이 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1012</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1012</guid>
+            <pubDate>Mon, 12 Dec 2022 07:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16(금) 11:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202212/12/yfhlx1evmd5y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 서울 아시테지 겨울축제 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1011</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Nov 2022 03:12:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.21(월) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202211/18/jel05fno6wcx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상상을 찍는 사진작가 에릭 요한슨展 - 대구 얼리버드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1002</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1002</guid>
-            <pubDate>Thu, 17 Nov 2022 07:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17(목)]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/39/202211/17/uq328tynzzu1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
