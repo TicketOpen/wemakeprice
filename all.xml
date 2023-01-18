@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 06:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 07:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 3차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1016</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1016</guid>
-            <pubDate>Mon, 09 Jan 2023 03:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.12(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202301/09/nvhfhkzdxw1b.png" length="0" type="image/png"/>
+            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 키즈컬처데이 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1017</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1017</guid>
+            <pubDate>Wed, 18 Jan 2023 07:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.19(목) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202301/18/4cr8zii6hzt0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2023 LIGHT UP FESTIVAL 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
@@ -48,14 +48,6 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202212/12/yfhlx1evmd5y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 서울 아시테지 겨울축제 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1011</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1011</guid>
-            <pubDate>Thu, 08 Dec 2022 02:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12(월) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202212/08/y3qfnni6q0vn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 2차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1010</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1010</guid>
@@ -86,6 +78,14 @@
             <pubDate>Tue, 29 Nov 2022 07:12:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.29(화) 17:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202211/29/5dhfru5tnvu8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엉덩이 탐정 플레이파크 미션 대모험 - 미아/천호/킨텍스 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1006</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1006</guid>
+            <pubDate>Wed, 18 Jan 2023 07:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.30(수) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202211/28/03wsge3i85co.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
