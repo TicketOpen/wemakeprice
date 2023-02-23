@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 08:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제15회 봄 고아웃캠프 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1032</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1032</guid>
+            <pubDate>Thu, 23 Feb 2023 09:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.02(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202302/23/nfgdkfcx3pui.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 Don＇t Let Daddy Know Korea [Kick off] 얼리버드 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1031</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 06 Feb 2023 03:13:46 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.08(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202302/06/3b086vfn0y50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식스 더 뮤지컬 최초 한국 공연 - 내한 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1020</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1020</guid>
-            <pubDate>Thu, 02 Feb 2023 07:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.03(금) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202302/02/xp4pyl6fudjo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
