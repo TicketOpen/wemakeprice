@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 03:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 04:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[〈페스티벌, 지금〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[〈페스티벌, 지금〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1040</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1040</guid>
             <pubDate>Fri, 10 Mar 2023 04:15:48 GMT</pubDate>
