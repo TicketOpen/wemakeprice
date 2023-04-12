@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 00:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 02:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울페스타 2023 개막공연 〈K-POP SUPER LIVE〉 2차 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1052</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1052</guid>
+            <pubDate>Wed, 12 Apr 2023 02:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.21(금) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202304/12/lywagcnsvr5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청춘페스티벌 2023 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1051</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 Mar 2023 08:16:08 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.07(금) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/43/202303/16/zvxvbykulwys.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈영웅〉 - 블루스퀘어 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1042</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1042</guid>
-            <pubDate>Wed, 15 Mar 2023 01:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.16(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202303/14/us8t5x99k2sr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
