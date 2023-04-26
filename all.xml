@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 00:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 02:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sync Next 23 (싱크 넥스트 23) 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1057</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1057</guid>
+            <pubDate>Wed, 26 Apr 2023 02:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.04(목) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/57/202304/26/tusoc1a22sgm.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[RAPBEAT 2023 블라인드 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1056</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 Mar 2023 08:15:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.07(금) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202303/29/58axc1tgsg0k.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 뮤직&캠핑 페스티벌 2023 공연 취소 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1046</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1046</guid>
-            <pubDate>Wed, 29 Mar 2023 02:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[공연취소]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202303/29/owhltnxb3sd0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
