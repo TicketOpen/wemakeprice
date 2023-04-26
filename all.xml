@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 08:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 09:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/57/202304/26/tusoc1a22sgm.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[RAPBEAT 2023 블라인드 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[RAPBEAT 2023 블라인드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1056</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1056</guid>
             <pubDate>Tue, 25 Apr 2023 09:11:58 GMT</pubDate>
