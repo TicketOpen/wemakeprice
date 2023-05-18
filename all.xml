@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈알로하, 나의 엄마들〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1069</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1069</guid>
+            <pubDate>Thu, 18 May 2023 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.22(월) 15:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202305/18/hl0hvgxsiu3m.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈겟팅아웃〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1068</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1068</guid>
+            <pubDate>Thu, 18 May 2023 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.23(화) 15:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202305/18/3ugdukla43ew.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 스카 슈퍼스웩 페스티벌 〈시즌6〉 - 얼리버드 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1067</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 03 May 2023 03:12:26 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.10(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202305/03/zarblapaktrb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 좀비런 부산 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1059</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1059</guid>
-            <pubDate>Thu, 27 Apr 2023 08:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.08(월) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202304/27/8tmssvzr3ykn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) - 위메프 컬처데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1058</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1058</guid>
-            <pubDate>Thu, 27 Apr 2023 02:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.28(금) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202304/26/6ea7kumsixwa.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
