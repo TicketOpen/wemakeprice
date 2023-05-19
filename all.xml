@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 02:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈알로하, 나의 엄마들〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[뮤지컬 〈알로하, 나의 엄마들〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1069</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1069</guid>
             <pubDate>Thu, 18 May 2023 03:12:13 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202305/18/hl0hvgxsiu3m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈겟팅아웃〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[연극 〈겟팅아웃〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1068</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1068</guid>
             <pubDate>Thu, 18 May 2023 03:12:13 GMT</pubDate>
