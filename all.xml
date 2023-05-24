@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 02:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핑크파크 페스티벌 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1072</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1072</guid>
+            <pubDate>Wed, 24 May 2023 03:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.26(금) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202305/24/xkrqeaqs945s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혼네 내한공연 HONNE LIVE IN SEOUL 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1071</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 May 2023 02:04:53 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.12(금) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202305/08/fnsa70g5y1rd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다나카 1st 내한 콘서트 ［꼬ㅊ보다 TANAKA］- 대구 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1062</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1062</guid>
-            <pubDate>Thu, 04 May 2023 06:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.04(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/57/202305/04/xs8rebz15ypc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
