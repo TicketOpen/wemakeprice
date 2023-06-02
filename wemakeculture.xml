@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 04:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 05:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://ticket.wemakeprice.com/opennotice/1079</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1079</guid>
             <pubDate>Fri, 02 Jun 2023 04:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.05(월) 12:00]]></content:encoded>
+            <content:encoded><![CDATA[2023.06.05(월) 13:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202306/02/vq1s30iywvju.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202306/01/muowrf8x3c3y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 이번여름 맥주축제 티켓오픈 안내 N]]></title>
+            <title><![CDATA[2023 이번여름 맥주축제 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1077</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1077</guid>
             <pubDate>Thu, 01 Jun 2023 05:11:00 GMT</pubDate>
