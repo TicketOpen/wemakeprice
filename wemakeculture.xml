@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 03:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 04:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 Micro Seoul Festival : Seoulbound - Early Bird 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1085</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1085</guid>
+            <pubDate>Tue, 13 Jun 2023 04:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.16(금) 13:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202306/13/mlo17kgajltr.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Another Nice Day #37 - 이지카이트 (Izykite), 정예원 (YEWON) 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1083</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 30 May 2023 03:11:53 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.07(수) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202305/30/q5jzhm5jd4vg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌7  〈웰컴 투 파라다이스〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1074</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1074</guid>
-            <pubDate>Fri, 26 May 2023 03:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.30(화) 15:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202305/26/e07ipw9tu9se.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
