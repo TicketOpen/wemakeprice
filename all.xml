@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 00:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 02:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[그린캠프 2023 자라섬 캠핑 이용권 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[그린캠프 2023 자라섬 캠핑 이용권 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1089</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1089</guid>
             <pubDate>Fri, 16 Jun 2023 02:38:40 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202306/16/etxvsyyjrz35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그린캠프 2023 자라섬 입장권 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[그린캠프 2023 자라섬 입장권 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1088</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1088</guid>
             <pubDate>Fri, 16 Jun 2023 02:38:40 GMT</pubDate>
