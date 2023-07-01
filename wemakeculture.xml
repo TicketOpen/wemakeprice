@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 05:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 06:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202306/30/oyihiwz0uwhm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SUPERPOP 2023 티켓오픈 안내 N]]></title>
+            <title><![CDATA[SUPERPOP 2023 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1097</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1097</guid>
             <pubDate>Fri, 30 Jun 2023 06:16:34 GMT</pubDate>
