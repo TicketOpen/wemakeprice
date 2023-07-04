@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 01:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 02:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202307/03/xcvpzdfvyomd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈2시 22분 - A Ghost Story〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[연극 〈2시 22분 - A Ghost Story〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1100</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1100</guid>
             <pubDate>Mon, 03 Jul 2023 02:55:05 GMT</pubDate>
