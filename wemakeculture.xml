@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 05:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 06:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://ticket.wemakeprice.com/opennotice/1104</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1104</guid>
             <pubDate>Tue, 11 Jul 2023 05:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.14(금) 18:00]]></content:encoded>
+            <content:encoded><![CDATA[2023.07.11(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202307/11/gbewyct9pwmj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
