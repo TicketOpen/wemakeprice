@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 06:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 07:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202308/02/mhw3r9rvbuo8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - homezone 티켓오픈 안내 N]]></title>
+            <title><![CDATA[[78AVENUE] 78LIVE - homezone 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1113</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1113</guid>
             <pubDate>Wed, 02 Aug 2023 09:11:09 GMT</pubDate>
