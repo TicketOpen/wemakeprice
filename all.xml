@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 02:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 03:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202308/04/v9cwqvs6o7lm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#SSAP CONCERT [KCM X 펀치 X 윤딴딴] 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[#SSAP CONCERT [KCM X 펀치 X 윤딴딴] 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1116</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1116</guid>
             <pubDate>Fri, 04 Aug 2023 02:32:43 GMT</pubDate>
