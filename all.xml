@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 05:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 06:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈더데빌 : 에덴〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1129</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1129</guid>
+            <pubDate>Mon, 04 Sep 2023 06:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.06(수) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/49/202309/04/k1g8xffr7i9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼 뮤지컬 〈시스터즈 (SheStars!)〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1128</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1128</guid>
+            <pubDate>Mon, 04 Sep 2023 06:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.05(화) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202309/04/nr0mnljmeqji.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈문스토리〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1127</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 14 Aug 2023 09:11:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.17(목) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202308/14/bidax5wzf121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해리 포터와 불의 잔™ 인 콘서트 2차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1118</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1118</guid>
-            <pubDate>Tue, 08 Aug 2023 02:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.08(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202308/08/puoj8xhmgpds.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 815만세런 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1117</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1117</guid>
-            <pubDate>Fri, 04 Aug 2023 09:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.08(화) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202308/04/v9cwqvs6o7lm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
