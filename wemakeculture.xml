@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 06:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202309/04/ufkw8n30sukd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈더데빌 : 에덴〉 티켓오픈 안내 N]]></title>
+            <title><![CDATA[뮤지컬 〈더데빌 : 에덴〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1129</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1129</guid>
             <pubDate>Mon, 04 Sep 2023 06:14:59 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/49/202309/04/k1g8xffr7i9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼 뮤지컬 〈시스터즈 (SheStars!)〉 티켓오픈 안내 N]]></title>
+            <title><![CDATA[쇼 뮤지컬 〈시스터즈 (SheStars!)〉 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1128</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1128</guid>
             <pubDate>Mon, 04 Sep 2023 06:14:59 GMT</pubDate>
