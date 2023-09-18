@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/wemakeprice/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-09-18T13:14:30.493Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 18 Sep 2023 14:11:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈2023 Eiji Akaso Fanmeeting〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1143</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1143</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.25(월) 20:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202309/18/epngp2j0rymq.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈카페 쥬에네스〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1142</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1142</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.18(월) 11:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202309/15/cbnepcisefji.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제16회 가을 고아웃 캠프 안동 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1141</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1141</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.19(화) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/06/202309/15/n3lpmx38nchw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LOVE IN SEOUL 2023 - 라라랜드 인 콘서트 (지휘: 저스틴 허위츠)] 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1140</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1140</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.21(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202309/14/cz9l0eq8drsa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LOVE IN SEOUL 2023 - 이자람 판소리 갈라 시리즈 : 작창 2007/2011] 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1139</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1139</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.21(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202309/14/qklde89ybaqj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LOVE IN SEOUL 2023 - SAM RYDER] 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1138</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1138</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.21(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202309/14/lanzpfkf4j39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LOVE IN SEOUL 2023 - 권진아 X 샘김] 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1137</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1137</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.21(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202309/14/sxsehrmvmlte.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8TH THE AIR HOUSE 1차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1135</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1135</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.14(목) 13:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202309/13/txbmminfdz7s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 지니뮤직 페스티벌 - 블라인드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1134</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1134</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.19(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/49/202309/11/hxacketjbzc4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[78AVENUE] 78LIVE - 재만(JAEMAN) 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1133</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1133</guid>
+            <pubDate>Mon, 18 Sep 2023 14:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.14(목) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202309/08/qkj11tyf6eiu.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
