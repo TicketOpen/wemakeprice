@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 04:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 05:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[92914 LIVE IN SEOUL - 92914 연말 콘서트] 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1160</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1160</guid>
+            <pubDate>Fri, 20 Oct 2023 05:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.27(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202310/20/zkcolaxhjxmb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[78AVENUE] 78LIVE - 우물 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1159</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Oct 2023 10:12:43 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.12(목) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202310/04/afdtzyqokugx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[J.Fla First Concert 'FLARE' 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1150</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1150</guid>
-            <pubDate>Wed, 04 Oct 2023 09:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.10(화) 20:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/22/202310/04/e2ihl6v5gbwr.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
