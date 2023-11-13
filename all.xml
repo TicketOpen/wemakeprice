@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 04:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈스모크〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1167</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1167</guid>
+            <pubDate>Mon, 13 Nov 2023 05:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.14(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202311/13/fnbrytiypihs.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[COUNTDOWN FANTASY 2023-2024 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1166</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 19 Oct 2023 07:11:42 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.31(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202310/19/nnteiflc3tya.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈맥베스〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1157</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1157</guid>
-            <pubDate>Wed, 18 Oct 2023 02:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.26(목) 15:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202310/18/iws68cgwgyey.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
