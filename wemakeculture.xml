@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 23:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 00:51:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/35/202311/17/qrb594sy0wwi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 World DJ Festival 티켓오픈 안내 N]]></title>
+            <title><![CDATA[2024 World DJ Festival 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1171</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1171</guid>
             <pubDate>Fri, 17 Nov 2023 02:24:48 GMT</pubDate>
