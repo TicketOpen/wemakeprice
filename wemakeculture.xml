@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 01:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 02:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 카즈미 타테이시 트리오 내한공연 - 지브리, 재즈를 만나다 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1177</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1177</guid>
+            <pubDate>Fri, 24 Nov 2023 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.24(금) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202311/24/ikcgy8pxfcbm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소피아 발레단 내한공연 〈호두까기 인형〉 - 부산 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1176</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Nov 2023 05:10:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.15(수) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202311/14/hxavrzpfckne.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스모크〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1167</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1167</guid>
-            <pubDate>Mon, 13 Nov 2023 05:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.14(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202311/13/fnbrytiypihs.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
