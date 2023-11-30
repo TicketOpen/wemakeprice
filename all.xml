@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 08:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 09:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다섯 단독 콘서트 〈오랜만입니다섯〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1180</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1180</guid>
+            <pubDate>Thu, 30 Nov 2023 09:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.04(월) 20:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202311/30/3xuh7ubheeim.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Another Nice Day #40 - ecru(에크루), Joob A 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1179</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Nov 2023 02:24:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.27(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202311/17/sarnznckown2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [더데빌:파우스트] 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1170</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1170</guid>
-            <pubDate>Thu, 16 Nov 2023 05:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.20(월) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/43/202311/16/pvt18qi6xpc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
