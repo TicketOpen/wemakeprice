@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 05:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 06:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 봄에 내리는 젠틀레인 -We Get Requests- 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1190</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1190</guid>
+            <pubDate>Wed, 20 Dec 2023 06:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.22(금) 13:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202312/20/mlrg1d9romae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연 -Beautiful Standards- 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1189</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1189</guid>
+            <pubDate>Wed, 20 Dec 2023 06:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.21(목) 13:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202312/20/bsxagzogg8ft.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈스모크〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1188</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 01 Dec 2023 02:00:43 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.04(월) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202312/01/dxwyzqhilzlv.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다섯 단독 콘서트 〈오랜만입니다섯〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1180</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1180</guid>
-            <pubDate>Thu, 30 Nov 2023 09:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.04(월) 20:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202311/30/3xuh7ubheeim.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another Nice Day #40 - ecru(에크루), Joob A 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1179</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1179</guid>
-            <pubDate>Wed, 29 Nov 2023 09:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.30(목) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202311/29/2wbmemug0nhv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
