@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 06:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 07:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202312/27/p6t0dpmw8lsa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 캐치더영 티켓오픈 안내 N]]></title>
+            <title><![CDATA[[78AVENUE] 78LIVE - 캐치더영 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1192</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1192</guid>
             <pubDate>Tue, 26 Dec 2023 09:11:29 GMT</pubDate>
