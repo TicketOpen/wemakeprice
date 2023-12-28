@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 04:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 05:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈컴프롬어웨이〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[2024 서울사케페스티벌(SEOUL SAKE FESTIVAL 2024)  티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1194</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1194</guid>
+            <pubDate>Thu, 28 Dec 2023 05:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.08(월) 08:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202312/28/bgypjkqy5umm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈컴프롬어웨이〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1193</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1193</guid>
             <pubDate>Wed, 27 Dec 2023 05:10:50 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Dec 2023 01:54:56 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.08(금) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/30/202312/08/dw1lwxsegg5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 시소(siso) 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1184</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1184</guid>
-            <pubDate>Thu, 07 Dec 2023 09:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.12(화) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/35/202312/07/tm17pzsjqbez.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
