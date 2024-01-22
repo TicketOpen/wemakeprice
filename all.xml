@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 04:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 05:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 22 Jan 2024 01:59:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202401/22/ympbx4zujic8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블루스프링페스티벌 2024 얼리버드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1197</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1197</guid>
-            <pubDate>Thu, 18 Jan 2024 09:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22(월) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202401/18/b2kwcfja1eos.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 DON'T LET DADDY KNOW 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Sun, 14 Jan 2024 08:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.21(목) 13:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202312/20/bsxagzogg8ft.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈스모크〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1188</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1188</guid>
+            <pubDate>Mon, 22 Jan 2024 05:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.20(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202312/19/pantdwrxgisw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
