@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 04:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 05:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워터밤 수원 2024 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1201</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1201</guid>
+            <pubDate>Thu, 25 Jan 2024 05:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.26(금) 16:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202401/25/yjcgvg2qkn7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워터밤 부산 2024 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1200</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1200</guid>
+            <pubDate>Thu, 25 Jan 2024 05:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.26(금) 16:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202401/25/vhb4xjgzeees.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워터밤 대구 2024 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1199</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1199</guid>
+            <pubDate>Thu, 25 Jan 2024 05:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.26(금) 16:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202401/25/0r46c3jx1107.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세종문화회관 〈2024 세종시즌〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1198</link>
@@ -62,30 +86,6 @@
             <pubDate>Sun, 14 Jan 2024 08:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.21(목) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202312/20/lcj5ng9oci9v.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 봄에 내리는 젠틀레인 -We Get Requests- 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1190</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1190</guid>
-            <pubDate>Sun, 14 Jan 2024 08:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.22(금) 13:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202312/20/mlrg1d9romae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연 -Beautiful Standards- 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1189</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1189</guid>
-            <pubDate>Sun, 14 Jan 2024 08:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.21(목) 13:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202312/20/bsxagzogg8ft.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스모크〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1188</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1188</guid>
-            <pubDate>Mon, 22 Jan 2024 05:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.20(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202312/19/pantdwrxgisw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
