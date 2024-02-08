@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 04:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 05:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 05 Feb 2024 10:12:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.07(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202402/05/eqpfiec8cbwd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈마리 앙투아네트〉 - 위메프 컬처데이 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1202</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1202</guid>
-            <pubDate>Tue, 30 Jan 2024 02:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202401/30/6wqzz8d6r529.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워터밤 수원 2024 티켓오픈 안내]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 28 Dec 2023 05:11:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.08(월) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202312/28/bgypjkqy5umm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈컴프롬어웨이〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1193</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1193</guid>
+            <pubDate>Thu, 08 Feb 2024 05:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.01(월) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202312/27/p6t0dpmw8lsa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
