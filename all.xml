@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 03:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 04:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BUZZER BEAT FESTIVAL 2024 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1207</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1207</guid>
+            <pubDate>Mon, 19 Feb 2024 04:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.22(목) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202402/19/akivgs0fzfnz.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024 디즈니 프린세스 콘서트 브로드웨이팀 내한공연 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1206</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Jan 2024 01:59:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202401/22/ympbx4zujic8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 DON'T LET DADDY KNOW 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1196</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1196</guid>
-            <pubDate>Mon, 15 Jan 2024 05:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.18(목) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202401/15/hop6w2vvxyee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
