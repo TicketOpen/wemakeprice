@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 07:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 08:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 스카페스티벌 〈스핀오프〉 얼리버드 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1208</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1208</guid>
+            <pubDate>Mon, 19 Feb 2024 08:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.22(목) 17:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202402/19/zyica0ao6ozm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BUZZER BEAT FESTIVAL 2024 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1207</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Jan 2024 05:12:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.26(금) 16:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202401/25/0r46c3jx1107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 〈2024 세종시즌〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1198</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1198</guid>
-            <pubDate>Mon, 22 Jan 2024 01:59:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.24(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202401/22/ympbx4zujic8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
