@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 00:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 01:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 인천 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1216</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1216</guid>
+            <pubDate>Fri, 15 Mar 2024 01:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.19(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202403/15/zmagn4krdruw.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[CCPP 기후환경 사진 프로젝트 - Confession to the Earth 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1214</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 13 Feb 2024 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.15(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/08/202402/13/ctogipyezavn.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Skullab Battles New School Edition 예선 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1204</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1204</guid>
-            <pubDate>Wed, 07 Feb 2024 09:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.08(목) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/57/202402/07/ni3atrcufn3d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
