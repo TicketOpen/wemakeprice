@@ -4,9 +4,25 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 02:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 03:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ROCK SPRING 2024 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1220</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1220</guid>
+            <pubDate>Mon, 18 Mar 2024 03:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.18(월) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202403/18/6oxisvhtvdj4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너, 내 동료가 돼라! -재패니메이션 OST 콘서트- 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1219</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1219</guid>
+            <pubDate>Mon, 18 Mar 2024 03:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.18(월) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202403/18/zntr6mt9nw7p.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 - 얼리버드 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1218</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 26 Feb 2024 05:11:57 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.29(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202402/26/fy36idu5to5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시발레단 창단 사전 공연 〈봄의 제전〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1209</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1209</guid>
-            <pubDate>Tue, 20 Feb 2024 03:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.21(수) 15:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202402/20/6ittnirjzu9z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BUZZER BEAT FESTIVAL 2024 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1207</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1207</guid>
-            <pubDate>Mon, 19 Feb 2024 04:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.22(목) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202402/19/akivgs0fzfnz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
