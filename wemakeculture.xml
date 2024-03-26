@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 07:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 08:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 스카 페스티벌 - 창원 얼리버드 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1223</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1223</guid>
+            <pubDate>Tue, 26 Mar 2024 08:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.28(목) 13:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202403/26/cb3jfoquedup.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈헤드윅〉 - 위메프 컬처데이 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1222</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Mar 2024 07:12:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.12(화) 17:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202403/08/idy0ddzxycdt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로키티 50주년 특별전 : 산리오 캐릭터즈와의 여행 - 얼리버드 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1212</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1212</guid>
-            <pubDate>Tue, 05 Mar 2024 04:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13(수) 09:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202403/05/dynxiplcrky0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
