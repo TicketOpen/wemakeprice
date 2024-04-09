@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 00:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 01:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202404/08/twdngofj8cp4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크리스토퍼 내한공연 CHRISTOPHER LIVE IN SEOUL 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[크리스토퍼 내한공연 CHRISTOPHER LIVE IN SEOUL 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1228</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1228</guid>
             <pubDate>Mon, 08 Apr 2024 03:13:07 GMT</pubDate>
