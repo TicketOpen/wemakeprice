@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 00:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 01:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/39/202404/19/jt52rku7knwt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[FINEDAY FESTIVAL 2024 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[FINEDAY FESTIVAL 2024 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1234</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1234</guid>
             <pubDate>Fri, 19 Apr 2024 03:12:41 GMT</pubDate>
