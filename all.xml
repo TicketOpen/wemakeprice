@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 06:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 07:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RAPBEAT 2024 위메프 슈퍼패스/위메프 패스 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1239</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1239</guid>
+            <pubDate>Thu, 25 Apr 2024 07:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.25(목) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202404/25/tmigh1gpcoqw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울페스타 2024 - 서울 로드쇼 2차 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1238</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Apr 2024 03:14:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.12(금) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202404/09/gl5aupacj6aq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 2차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1229</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1229</guid>
-            <pubDate>Mon, 08 Apr 2024 07:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.11(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202404/08/twdngofj8cp4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
