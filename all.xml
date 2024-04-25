@@ -4,11 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 05:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 06:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[하리보 해피월드 인 제주 : 젤리섬으로의 초대 - 슈퍼얼리버드 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[서울페스타 2024 - 서울 로드쇼 2차 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1238</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1238</guid>
+            <pubDate>Thu, 25 Apr 2024 06:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.26(금) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202404/25/cmjbdonrxy9w.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울페스타 2024 - 개막파티 2차 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1237</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1237</guid>
+            <pubDate>Thu, 25 Apr 2024 06:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.26(금) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202404/25/ucch2rk9dggj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하리보 해피월드 인 제주 : 젤리섬으로의 초대 - 슈퍼얼리버드 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1236</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1236</guid>
             <pubDate>Wed, 24 Apr 2024 06:18:12 GMT</pubDate>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 08 Apr 2024 07:12:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.11(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202404/08/twdngofj8cp4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 내한공연 CHRISTOPHER LIVE IN SEOUL 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1228</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1228</guid>
-            <pubDate>Mon, 08 Apr 2024 03:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.15(월) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202404/08/ik7fzejgal7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀판-부천한마당 박애리X남상일X팝핀현준 - 부천 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1227</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1227</guid>
-            <pubDate>Sun, 07 Apr 2024 16:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.05(금) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/49/202404/04/hvzi5iletz0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
