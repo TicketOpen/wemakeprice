@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 05:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 06:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1241</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1241</guid>
+            <pubDate>Tue, 30 Apr 2024 06:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.01(수) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202404/30/zyivdw1c7hj7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PEAK FESTIVAL 2024 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1240</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 16 Apr 2024 03:13:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.23(화) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202404/16/j5drurvymqyo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울페스타 2024 - 서울 로드쇼 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1231</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1231</guid>
-            <pubDate>Tue, 09 Apr 2024 03:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.12(금) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202404/09/sqvelt28sgke.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
