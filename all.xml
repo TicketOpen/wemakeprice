@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 04:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 05:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202404/30/kjyfebztdh51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1241</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1241</guid>
             <pubDate>Tue, 30 Apr 2024 06:15:20 GMT</pubDate>
