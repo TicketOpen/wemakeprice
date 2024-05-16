@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 01:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 02:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세종문화회관 컨템퍼러리 시즌 Sync Next 24(싱크 넥스트 24) 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1248</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1248</guid>
+            <pubDate>Thu, 16 May 2024 02:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16(목) 16:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202405/16/6cejg0jqunxw.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[RAPBEAT 2024 - RAPBEAT COMBO 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1247</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Apr 2024 07:12:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.25(목) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202404/25/tmigh1gpcoqw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울페스타 2024 - 서울 로드쇼 2차 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1238</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1238</guid>
-            <pubDate>Thu, 25 Apr 2024 06:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.26(금) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202404/25/cmjbdonrxy9w.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
