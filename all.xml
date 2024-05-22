@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 00:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 01:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈하비에르 카예하 특별전 - 이곳에 예술은 없다〉 슈퍼얼리버드 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1251</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1251</guid>
+            <pubDate>Wed, 22 May 2024 01:55:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.27(월) 13:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202405/22/sitcbnccme8t.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코믹 뮤지컬 〈5! 해피맨〉 2차 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1250</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 30 Apr 2024 08:15:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.09(목) 16:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202404/30/kjyfebztdh51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1241</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1241</guid>
-            <pubDate>Tue, 30 Apr 2024 06:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.01(수) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202404/30/zyivdw1c7hj7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
