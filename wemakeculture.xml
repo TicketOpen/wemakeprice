@@ -4,7 +4,7 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 02:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 03:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202406/14/sdf3dyzcux9y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 CassCool Festival - BLIND & EARLY BIRD 티켓오픈 안내]]></title>
+            <title><![CDATA[2024 CassCool Festival - BLIND ＆ EARLY BIRD 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1259</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1259</guid>
             <pubDate>Fri, 14 Jun 2024 05:12:23 GMT</pubDate>
