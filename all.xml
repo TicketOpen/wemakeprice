@@ -4,19 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 00:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 01:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[JUTO(유토) 음감회 〈MY UTOPIA〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[유토(JUTO) 음감회 〈MY UTOPIA〉 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1262</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1262</guid>
             <pubDate>Tue, 18 Jun 2024 03:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.29(토) 00:00]]></content:encoded>
+            <content:encoded><![CDATA[2024.06.19(수) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/22/202406/18/zdwymrhiuxvu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundberry Festa' 24 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[Soundberry Festa' 24 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1261</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1261</guid>
             <pubDate>Tue, 18 Jun 2024 02:34:21 GMT</pubDate>
