@@ -4,9 +4,17 @@
         <title>위메프 공연티켓 ─ 티켓오픈공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 08:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 09:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Someday Festival 2024 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1268</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1268</guid>
+            <pubDate>Wed, 10 Jul 2024 09:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.11(목) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/06/202407/10/ob2v9jloxdf3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CEREAL NO.01 : CHOILB X Khundi Panda 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1267</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Jun 2024 05:12:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밍기뉴 단독 콘서트 〈한여름밤의 꿈〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1258</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1258</guid>
-            <pubDate>Fri, 31 May 2024 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.05(수) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202405/31/cczwg6vpb7wo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
