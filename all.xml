@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 02:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 03:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://ticket.wemakeprice.com/opennotice/1270</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1270</guid>
             <pubDate>Thu, 11 Jul 2024 02:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.27(토) 00:00]]></content:encoded>
+            <content:encoded><![CDATA[2024.07.16(화) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202407/11/dekhzpxapr7r.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
