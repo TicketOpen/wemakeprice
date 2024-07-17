@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 07:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 08:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ONE UNIVERSE FESTIVAL 2024 - OUF 2024 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <title><![CDATA[패밀리 아이스쇼 〈피터팬 온 아이스〉오리지널 내한공연 티켓오픈 안내 N (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1276</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1276</guid>
+            <pubDate>Wed, 17 Jul 2024 08:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.22(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202407/17/ijkrqmglrrpe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONE UNIVERSE FESTIVAL 2024 - OUF 2024 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1275</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1275</guid>
             <pubDate>Tue, 16 Jul 2024 08:16:59 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Jun 2024 05:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.08(월) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202406/28/hgsmlplgnxdq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조영숙X장영규X박민희 〈조 도깨비 영숙〉 OP석/사이드석 추가 티켓오픈 안내 (위메프 공연티켓 ─ 티켓오픈공지)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1263</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1263</guid>
-            <pubDate>Tue, 25 Jun 2024 05:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.27(목) 16:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202406/25/5kluq9u2fdu6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
